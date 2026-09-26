@@ -34,9 +34,7 @@ Secure, performant, and testable systems
 I enjoy working in team-oriented environments, contributing to shared codebases, reviewing code, and delivering production-ready features on time.
 
 📫 Contact
-
-📧 timeloop64@yahoo.com
-- 📫 How to reach me timeloop64@yahoo.com 
+- 📫 How to reach me jeevanantham7538@yahoo.com 
 
 
 
